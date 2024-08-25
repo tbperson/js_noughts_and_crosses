@@ -15,4 +15,4 @@ The game is played on a 3x3 grid. Players take turns marking a square with their
 
 ## Preview
 
-![Noughts and Crosses Preview](preview.jpg)
+![Noughts and Crosses Preview](preview.png)
